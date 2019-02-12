@@ -3,9 +3,9 @@
 **Version 1.0.0
 
 
-##Contributor
+##Contributors
 
-Mark Mugwere Agimba
+Mark Mugwere Agimba-Moringa Student
 
 
 ##Motivation
