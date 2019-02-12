@@ -10,7 +10,7 @@ Mark Mugwere Agimba-Moringa Student
 
 ##Motivation
 
-A readme.md file that was created for the purpose of use in the Friday 8th of February first independent project
+A readme.md file that was created for the purpose of use in the Friday 8th of February 2019 first graded independent project . 
 
 
 ##Technologies Used
