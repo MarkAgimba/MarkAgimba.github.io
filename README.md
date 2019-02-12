@@ -11,7 +11,7 @@
 ## Technologies Used
 {CSS and HTML have been used to create the site.}
 ## Support and contact details
-{Reach me on my email address "markague...." from the site.Hope you find your perusal worthwhile.}
+{Reach me on my email address "markaguero16@gmail.com" from the site.Hope you find your perusal worthwhile.}
 ### License
 *{MIT.}*
-Mark Mugwere Agimba ©<2019>
+Mark Mugwere Agimba ©2019
