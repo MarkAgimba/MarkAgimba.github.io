@@ -23,7 +23,7 @@ CSS and HTML have been used on this project .
 There is no installation guide that is needed. 
 
 
-##Link to live site
+##Link to github page
 
 https://github.com/MarkAgimba/
 
