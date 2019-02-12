@@ -13,9 +13,9 @@ Mark Mugwere Agimba-Moringa Student
 A readme.md file that was created for the purpose of use in the Friday 8th of February 2019 first graded independent project . 
 
 
-##Technologies Used
+##Languages Used
 
-HTML and CSS has been used to create this webpage
+CSS and HTML have been used on this project . 
 
 
 ##Installation Guide
