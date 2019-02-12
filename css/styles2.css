@@ -1,0 +1,23 @@
+body{
+  background-image: <img src="images/techskils.png" alt="Background">;
+  background-size: cover;
+}
+#intro{
+  text-align: center;
+  margin-top: 250px;
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  color: #D42F2F;
+
+}
+.button {
+  background-color: {#92a8d1;}; /* Green */
+  border: none;
+  color: blue;
+  padding: 17px 36px;
+  margin-left: 206px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
