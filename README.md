@@ -20,7 +20,7 @@ CSS and HTML have been used on this project .
 
 ##Installation Guide
 
-None needed
+There is no installation guide that is needed. 
 
 
 ##Link to live site
